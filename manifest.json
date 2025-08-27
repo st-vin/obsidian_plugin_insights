@@ -1,0 +1,10 @@
+{
+  "id": "insights-subconscious-ai",
+  "name": "INSIGHTS – SUBCONSCIOUS AI",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "local AI companion for semantic insights and background rumination",
+  "author": "INSIGHTS Team",
+  "isDesktopOnly": true,
+  "enableProposedApi": false
+}

@@ -1,0 +1,17 @@
+{
+  "name": "insights-subconscious-ai",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "INSIGHTS – SUBCONSCIOUS AI: local AI companion for semantic insights and background rumination",
+  "scripts": {
+    "build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs",
+    "dev": "node esbuild.config.mjs --watch"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "esbuild": "^0.21.5",
+    "obsidian": "^1.5.12",
+    "typescript": "^5.4.5"
+  }
+}
