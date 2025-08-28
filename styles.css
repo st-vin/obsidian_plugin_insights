@@ -1,0 +1,36 @@
+/* INSIGHTS – SUBCONSCIOUS AI styles */
+
+.insights-view {
+  padding: 12px;
+}
+
+.insights-searchbar {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.insights-input {
+  flex: 1;
+}
+
+.insights-results {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.insights-result {
+  padding: 8px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+}
+
+.insights-meta {
+  color: var(--text-muted);
+  font-size: 12px;
+}
+
+.insights-ruminations {
+  margin-top: 16px;
+}
